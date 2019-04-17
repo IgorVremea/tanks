@@ -1,0 +1,5 @@
+function EnemyTank () {
+	this.getLocation = () => {
+
+	}
+}
